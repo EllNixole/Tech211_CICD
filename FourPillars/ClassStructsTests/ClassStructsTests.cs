@@ -206,9 +206,5 @@ public class Tests
 
     #endregion
 
-    [Test]
-    public void SillyTest()
-    {
-        Assert.Fail();
-    }
+    
 }
